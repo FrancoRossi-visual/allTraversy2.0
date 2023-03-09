@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Fran",
+    "gender": "male",
+    "class": "Archer",
+    "lvl": 2
+  },
+  {
+    "name": "Ren",
+    "gender": "male",
+    "class": "monke",
+    "lvl": 10
+  }
+]
